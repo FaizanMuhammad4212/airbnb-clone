@@ -1,0 +1,88 @@
+body {
+  margin: 0;
+  font-family: Inter,'Poppins';
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.navbar{
+  display: flex;
+  align-content: center;
+  padding: 15px 50px;
+  box-shadow: 8px 2.98356px 7.4565px rgba(0, 0,0,0.1);
+}
+.cont{
+  display: flex;
+  flex-direction: column;
+}
+.image-grid{
+  margin-top: 40px;
+align-self: center;
+margin-left: 190px;
+}
+.h1-header{
+  margin-top: 40px;
+  margin-left: 60px;
+}
+.h1-header>h1{
+  font-size: 80px;
+}
+.h1-header>p{
+  font-size: 38px;
+}
+.cont1{
+  padding-left: 60px;
+  margin-top: 60px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+.katy{
+  height: 450px;
+ width: 340px;
+}
+.star{
+ height: 25px;
+ width: 25px;
+ margin-top: 25px;
+}
+.rate{
+  display: flex;
+  margin-top: -10px;
+}
+.rate>p{
+  margin-left: 4px;
+  font-size: x-large;
+}
+.rate2{
+  color: rgb(147, 147, 172);
+  margin-left: 8px;
+  font-size: x-large;
+}
+.par{
+ margin-top: -7px;
+ font-size: x-large;
+}
+.para1{
+  display: flex;
+  margin-top: -45px;
+  font-size: x-large;
+}
+.para1>p{
+  margin-top: 32px;
+  margin-left: 5px;
+  font-size: x-large;
+}
+.contain{
+  display: flex;
+}
+.sold{
+  position: absolute;
+  top: 13px;
+  left: 68px;
+  background-color: white;
+  border-radius: 4px;
+}
